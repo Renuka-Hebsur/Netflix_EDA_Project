@@ -10,9 +10,19 @@ pandas, numpy
 matplotlib, seaborn
 
  Project Steps
-1. Data Cleaning: Removed missing values and handled data inconsistencies.
-2. Visualizations: Created multiple plots including rating distributions and top 10 genres.
-3. Insights: Generated meaningful insights from the dataset.
+
+1. **🧹 Data Cleaning**:
+   - Handle missing data and ensure proper data types.
+   
+2. **🔍 Exploratory Data Analysis (EDA)**:
+   - Explore relationships between features (ratings, genres, etc.).
+   
+3. **📊 Data Visualization**:
+   - Visualize the findings through bar plots, histograms, and other graphs.
+   
+4. **📈 Insights and Findings**:
+   - Summarize trends like top genres and ratings distribution.
+
 
 🔍 Key Findings
 📅 Content Growth: The volume of content added on Netflix has significantly increased in recent years, especially after 2015.
