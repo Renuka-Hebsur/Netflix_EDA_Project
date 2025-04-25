@@ -5,7 +5,7 @@ This project involves Exploratory Data Analysis (EDA) on Netflix's publicly avai
 🧰 Tools & Libraries Used
 Python
 
-pandas, numpy
+pandas, numpy 
 
 matplotlib, seaborn
 
